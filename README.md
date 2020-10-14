@@ -62,7 +62,7 @@ For training the end-to-end version of LR-FTI-FDet with the backbone RFDNet, 2G 
    make -j8 && make pycaffe
    ```
 
-5. Download pre-computed LR-FTI-FDet detectors (already in the folder `output\`)
+5. Download pre-computed LR-FTI-FDet detectors (`ach` already in the folder `output\`)
    These models were trained on six fault datasets in our paper.
 
 ### Demo
