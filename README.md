@@ -107,7 +107,7 @@ cd $ROOT
 ### Citing
 If you find this repository useful in your research, please consider citing:
 ```
-@INPROCEEDINGS{Light-FTI-FDet,
+@INPROCEEDINGS{LR-FTI-FDet,
   author={Y. {Zhang} and M. {Liu} and Y. {Yang} and Y. {Guo} and H. {Zhang}},
   journal={IEEE Transactions on Industrial Informatics}, 
   title={ A Unified Light Framework for Real-time Fault Detection of Freight Train Images}, 
