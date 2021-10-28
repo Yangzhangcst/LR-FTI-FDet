@@ -112,9 +112,9 @@ If you find this repository useful in your research, please consider citing:
   journal={IEEE Transactions on Industrial Informatics}, 
   title={ A Unified Light Framework for Real-time Fault Detection of Freight Train Images}, 
   year={2021},
-  volume={},
-  number={},
-  pages={},
+  volume={17},
+  number={11},
+  pages={7423-7432},
   }
 ```
 ```
